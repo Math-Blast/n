@@ -1,6 +1,6 @@
 function downloadGame(platform) {
     let downloadLinks = {
-        android: '/storage/emulated/0/Download/MathBlast.apk'
+        android: 'https://www.mediafire.com/file/dm1ws0hsqgcigo9/MathBlast.apk/file'
           };
 
     if (downloadLinks[platform]) {
